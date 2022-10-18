@@ -1,0 +1,192 @@
+body {
+	background:url(../imagenes/fondooscurotodo.png);
+margin:5px;
+border:3px solid #fff;
+	padding:10px; 
+	color:#fff;
+}
+
+h1{
+	text-align:center;
+	font-family:coper black;
+	color:#000000;
+background:url(../imagenes/fondocepillo.jpg);
+	height:100px; 
+	font-size:150px;
+	padding:100px;
+	margin:0px 0px 15px 0px;
+	box-shadow:5px 5px 5px 5px #000000; 
+}
+h2{
+	text-align:center;
+}
+
+h3{
+	font-size:30px;
+}
+h5 {
+	font-size:20px;
+	text-align:center;
+	color:blue;
+}
+
+a {
+	font-size:20px;
+}
+
+p {
+	font-size:20px;
+}
+
+.otro {
+	 
+	margin:1px 1100px 10px 10px ;
+	display:block;
+	border-radius:10%;
+	padding:.5%;
+	font-size:12px ;
+	font-family:arial;
+
+}
+
+.otroa {
+	 
+	margin:-200px 1100px 10px 10px ;
+	display:block;
+	border-radius:10%;
+	padding:.5%;
+	font-size:12px ;
+	font-family:arial;
+
+}
+.otroarreglar {
+	 
+	margin:-50px 1100px 10px 10px ;
+	display:block;
+	border-radius:10%;
+	padding:.5%;
+	font-size:12px ;
+	font-family:arial;
+
+}
+
+.negrita{
+	font-size:30px;
+	font-family:arial;
+
+}
+
+.derecha{
+margin:-350px 10px 10px 1000px ;
+	display:block;
+	border-radius:10%;
+	padding:.5%;
+	font-size:12px ;
+	font-family:arial;
+
+}
+
+.derechao{
+margin:-470px 10px 10px 1000px ;
+	display:block;
+	border-radius:10%;
+	padding:.5%;
+	font-size:12px ;
+	font-family:arial;
+
+}
+
+.precio{
+font-size:25px;
+font-family:arial;
+
+}
+
+
+.comprar {
+	background:#ac00e6;
+	width:auto;
+	height:auto; 
+	font-size:20px;
+	padding:30px;
+	margin:auto;
+}
+
+.comprar a{
+	color:#fff;
+
+}
+
+.comprar a:hover {
+text-decoration:underline;
+	color:#fff;
+}
+
+a:visited {
+	color:#fff;
+}
+
+
+
+
+img, .centro {
+	margin:auto;
+	display:block;
+}
+
+
+
+a {
+	text-decoration:none;
+}
+
+
+
+
+.menu {
+	text-align:right;
+	height:120px;
+	width:98%;
+ 	background:url(../imagenes/piedepagina2.jpg);
+	list-style:none;
+
+}
+.menu li{
+	display:inline-block;
+
+}
+.menu li a{
+	font-size: 40px;
+	margin:10px 1px 1px 10px;
+	padding:20px 20px 20px 20px;
+	display:inline-block;
+	color:	#fff ;
+}
+.menu li a:hover {
+	padding:30px;
+	background:url(../imagenes/piedepagina2.jpg);
+	color: #fff;
+}
+.info {
+	color:#fff;
+	background:url(../imagenes/piedepagina2.jpg);
+	background-position:50% 0%;
+background-repeat:repeat-x;
+margin:1px 1px 0px 1px;
+padding:1px 1px 10px 1px;
+	text-align:center;
+	font-family:berlin sans fb;
+
+}
+
+.info li{
+	display:inline-block;
+		margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 0px;
+	font-size: 18px;
+	font-family: arial;
+}
+
+.centro{
+	text-align: center;
+}
